@@ -19,17 +19,19 @@ Welcome to the Placement Predictor Web App, an interactive tool for predicting s
    ```bash
    pip install streamlit numpy
     ```
-1. Running the App
+   
+2. Running the App
 
--Run the app using the streamlit run command in your terminal:
+- Run the app using the streamlit run command in your terminal:
+
 ```bash
 streamlit run placement_predictor.py
 ```
-2. Input Student Details
+3. Input Student Details
 
 - Use the form provided in the web app to enter student details, including gender, academic scores, degree field, work experience, and more.
 
-3. Get Predictions
+4. Get Predictions
 
 - Click the "Predict" button to obtain predictions for student placement and the expected salary if placed.
 
