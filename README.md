@@ -1,8 +1,6 @@
 # Placement-Predictor-Web-App
 Streamlit app: Predict student placement &amp; salary using ML models with user input.
 
-# Placement Predictor Web App
-
 This web application, built with Streamlit, predicts student placement and estimated salary based on various input parameters. It leverages machine learning models and preprocessed data for predictions.
 
 ## How to Use
@@ -18,7 +16,7 @@ streamlit run app1.py
 2. Get predictions for placement and expected salary.
 
 ## Requirements
-Python
-Streamlit
-NumPy
-Pickle (for model loading)
+1. Python
+2. Streamlit
+3. NumPy
+4. Pickle (for model loading)
