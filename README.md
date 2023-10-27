@@ -12,6 +12,7 @@ This web application, built with Streamlit, predicts student placement and estim
 
 ```bash
 streamlit run app1.py
+```
 
 1. Input student details using the provided form.
 2. Get predictions for placement and expected salary.
